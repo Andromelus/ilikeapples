@@ -1,1 +1,1 @@
-include .ini
+recursive-include ilikeapples *.ini
