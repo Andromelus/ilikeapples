@@ -11,5 +11,6 @@ setup(
         'ibis-framework[impala]==2.0.0',
         'numpy==1.21.4',
         'pandas==1.3.4'
-    ]
+    ],
+    include_package_data=True,
 )
